@@ -17,6 +17,6 @@
         "DownloadLinkInstall": "https://github.com/spide-r/alphatest/raw/main/latest.zip",
         "DownloadLinkTesting": "https://github.com/spide-r/alphatest/raw/main/latest.zip",
         "DownloadLinkUpdate": "https://github.com/spide-r/alphatest/raw/main/latest.zip",
-        "IconUrl": "https://github.com/spide-r/PvPAnnouncer/blob/master/images/icon.png"
+        "IconUrl": "https://raw.githubusercontent.com/spide-r/PvPAnnouncer/refs/heads/master/images/icon.png"
     }
 ]
