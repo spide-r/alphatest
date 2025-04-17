@@ -5,8 +5,7 @@
         "Punchline": "Do you want an announcer in your PvP Matches? Metem has offered to be of service!",
         "Description": "This plugin will cause Metem's voice lines to play mid-match upon specific conditions being met. You must have your Voice sounds turned on for this plugin to function.",
         "InternalName": "PvPAnnouncer",
-        "AssemblyVersion": "0.0.0.1",
-        "TestingAssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "0.0.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
         "IsHide": "False",
@@ -15,7 +14,6 @@
         "LastUpdate": 0,
         "LoadPriority": 69420,
         "DownloadLinkInstall": "https://github.com/spide-r/alphatest/raw/main/latest.zip",
-        "DownloadLinkTesting": "https://github.com/spide-r/alphatest/raw/main/latest.zip",
         "DownloadLinkUpdate": "https://github.com/spide-r/alphatest/raw/main/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/spide-r/PvPAnnouncer/refs/heads/master/images/icon.png"
     }
