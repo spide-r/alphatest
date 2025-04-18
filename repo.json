@@ -5,7 +5,7 @@
         "Punchline": "Do you want an announcer in your PvP Matches? Metem has offered to be of service!",
         "Description": "This plugin will cause Metem's voice lines to play mid-match upon specific conditions being met. You must have your Voice sounds turned on for this plugin to function.",
         "InternalName": "PvPAnnouncer",
-        "AssemblyVersion": "0.0.0.2",
+        "AssemblyVersion": "0.0.0.3",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
         "IsHide": "False",
