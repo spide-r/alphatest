@@ -23,7 +23,7 @@
         "Punchline": "Allows you to not lose track of your mouse on the screen",
         "Description": "Add UI element on top of the mouse like circle to keep track of your mouse location during gameplay.\nOpen settings with /wmm",
         "InternalName": "WhereIsMyMouse",
-        "AssemblyVersion": "0.0.1.3",
+        "AssemblyVersion": "0.0.1.4",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
         "IsHide": "False",
